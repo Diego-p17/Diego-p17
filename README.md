@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi!!, I'm Diego Puentes, full stack developer and content creator 🤯!
-<div align="center"><br>
+<div style="display: inline_block"><br>
   <a href="https://github.com/Diego-p17/Diego-p17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diego-p17&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-p17&layout=compact&langs_count=7&theme=codeSTACKr"/>
